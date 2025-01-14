@@ -62,5 +62,5 @@ The project was part of a professional certification program aimed at mastering 
 ## **Steps to Reproduce**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/PowerBI-Data-Cleaning-and-Visualization.git
+   git clone https://github.com/Priyanka12joshi/Sales-Product-Case-Study-DataCamp-/
 
