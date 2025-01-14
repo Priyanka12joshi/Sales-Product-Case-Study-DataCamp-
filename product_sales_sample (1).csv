@@ -1,0 +1,501 @@
+week,sales_method,customer_id,nb_sold,revenue,years_as_customer,nb_site_visits,state
+7,Call,CUST_1,13,958.59,7,28,California
+4,Call,CUST_2,6,808.09,32,36,California
+11,Call,CUST_3,5,296.03,11,19,Illinois
+8,Email,CUST_4,1,609.13,10,48,California
+5,Call,CUST_5,6,983.21,9,20,California
+7,Call,CUST_6,6,889.99,14,9,California
+10,Email,CUST_7,16,620.76,13,4,Illinois
+3,Email and Call,CUST_8,4,908.54,25,35,Texas
+7,Email,CUST_9,11,989.73,2,5,Texas
+11,Call,CUST_10,9,756.19,35,25,California
+11,Call,CUST_11,3,111.74,7,3,Illinois
+8,Email,CUST_12,19,431.5,21,38,Texas
+5,Email and Call,CUST_13,8,845.93,18,38,Texas
+4,Call,CUST_14,5,269.04,3,49,Texas
+8,Call,CUST_15,4,839.11,39,34,Illinois
+8,Call,CUST_16,6,164.32,11,0,Illinois
+3,Email,CUST_17,2,94.6,39,23,California
+6,Call,CUST_18,11,414.89,24,35,Florida
+5,Email and Call,CUST_19,4,84.9,19,5,Texas
+2,Call,CUST_20,15,959.41,4,40,Florida
+8,Call,CUST_21,6,834.9,26,45,Illinois
+12,Email and Call,CUST_22,17,810.73,38,43,Illinois
+6,Call,CUST_23,6,648.29,32,30,Illinois
+2,Email,CUST_24,19,255.51,39,19,Florida
+12,Email,CUST_25,2,542.35,36,23,Illinois
+5,Email,CUST_26,15,617.41,37,24,California
+1,Email and Call,CUST_27,11,548.78,33,35,Illinois
+12,Call,CUST_28,8,297.22,36,20,New York
+10,Email,CUST_29,19,539.49,3,29,Florida
+6,Email and Call,CUST_30,13,516.63,9,23,New York
+12,Call,CUST_31,12,996.52,8,43,Illinois
+9,Email and Call,CUST_32,5,902.56,33,41,California
+1,Email,CUST_33,6,490.21,6,29,Texas
+11,Email,CUST_34,4,641.79,39,21,Illinois
+11,Email,CUST_35,19,760.48,4,27,California
+10,Email and Call,CUST_36,1,83.12,13,6,Florida
+12,Email and Call,CUST_37,17,900.18,2,34,New York
+12,Email,CUST_38,12,867.12,5,27,New York
+3,Email and Call,CUST_39,15,484.56,27,13,New York
+12,Email,CUST_40,1,421.61,32,9,Florida
+7,Email,CUST_41,14,309.31,21,15,California
+4,Call,CUST_42,6,502.84,8,15,Florida
+9,Email and Call,CUST_43,5,92.16,38,30,New York
+3,Email,CUST_44,11,859.58,8,41,Illinois
+5,Email,CUST_45,4,83.65,3,24,Texas
+3,Email and Call,CUST_46,13,362.6,3,12,Florida
+7,Call,CUST_47,11,935.01,22,5,Florida
+5,Call,CUST_48,3,748.45,6,43,California
+9,Email,CUST_49,1,317.32,2,8,California
+7,Email and Call,CUST_50,6,290.02,23,44,Florida
+2,Call,CUST_51,18,54.83,2,35,New York
+4,Email and Call,CUST_52,10,710.93,38,42,Texas
+9,Email and Call,CUST_53,5,96.34,17,19,California
+12,Email,CUST_54,10,555.97,35,17,New York
+2,Call,CUST_55,12,964.02,34,42,Illinois
+10,Email,CUST_56,2,154.0,23,20,California
+9,Call,CUST_57,13,899.76,30,3,New York
+10,Call,CUST_58,8,991.9,8,49,New York
+5,Call,CUST_59,2,108.44,22,32,Texas
+2,Call,CUST_60,1,888.76,36,26,Texas
+4,Call,CUST_61,5,540.28,5,6,Illinois
+12,Email and Call,CUST_62,9,911.19,13,5,New York
+12,Email,CUST_63,17,592.75,29,14,New York
+7,Email and Call,CUST_64,9,679.01,31,17,Texas
+12,Call,CUST_65,11,566.59,16,31,California
+8,Email,CUST_66,15,871.27,30,10,California
+3,Call,CUST_67,6,747.21,16,19,Florida
+1,Email,CUST_68,3,545.2,12,23,Texas
+4,Email and Call,CUST_69,17,874.75,17,14,Florida
+2,Email,CUST_70,5,283.02,16,47,Texas
+8,Email,CUST_71,12,199.47,12,6,Illinois
+4,Email,CUST_72,18,202.38,8,20,New York
+2,Email,CUST_73,14,367.31,20,41,Illinois
+6,Email,CUST_74,11,276.76,3,25,Texas
+6,Call,CUST_75,9,933.59,16,43,New York
+10,Email,CUST_76,2,150.54,30,13,California
+4,Email,CUST_77,12,714.04,23,36,California
+6,Email and Call,CUST_78,3,229.76,28,20,Florida
+2,Email,CUST_79,3,887.56,5,17,Texas
+10,Email and Call,CUST_80,1,963.25,20,4,Texas
+12,Call,CUST_81,8,492.2,1,2,California
+2,Email,CUST_82,8,885.12,30,22,Illinois
+10,Email and Call,CUST_83,11,54.89,21,25,New York
+4,Email and Call,CUST_84,9,828.95,20,36,Illinois
+8,Call,CUST_85,5,267.19,6,23,Illinois
+7,Email,CUST_86,14,913.27,22,48,California
+12,Email,CUST_87,3,51.06,18,18,California
+9,Email and Call,CUST_88,5,578.37,8,24,California
+8,Email,CUST_89,5,768.8,39,20,Florida
+5,Email and Call,CUST_90,19,295.75,32,11,Illinois
+2,Email,CUST_91,14,233.48,33,40,Texas
+5,Email and Call,CUST_92,4,129.89,16,32,New York
+8,Email,CUST_93,13,360.11,12,49,Florida
+10,Call,CUST_94,10,581.85,38,3,Texas
+9,Email,CUST_95,18,160.05,34,41,Illinois
+12,Email,CUST_96,8,407.86,14,6,California
+12,Call,CUST_97,8,58.62,36,21,Illinois
+12,Email,CUST_98,7,827.75,33,32,New York
+9,Call,CUST_99,8,172.03,23,16,Florida
+1,Email,CUST_100,14,319.18,2,23,Florida
+9,Email and Call,CUST_101,19,67.51,21,33,New York
+7,Email and Call,CUST_102,6,460.63,2,27,Texas
+9,Email,CUST_103,1,848.12,27,42,Texas
+8,Email,CUST_104,15,422.54,9,40,Florida
+1,Email,CUST_105,1,220.52,1,38,Florida
+12,Email and Call,CUST_106,17,766.01,11,21,California
+8,Email,CUST_107,1,799.37,3,48,Texas
+8,Email and Call,CUST_108,15,215.07,23,16,New York
+11,Call,CUST_109,2,782.31,26,33,Texas
+3,Email and Call,CUST_110,14,949.93,4,5,California
+1,Email and Call,CUST_111,8,208.06,18,45,Florida
+8,Call,CUST_112,8,782.44,6,5,Florida
+3,Email and Call,CUST_113,19,723.14,35,33,California
+3,Email,CUST_114,7,499.9,22,0,New York
+1,Email,CUST_115,19,105.02,15,9,Florida
+11,Email and Call,CUST_116,6,120.96,22,20,Illinois
+5,Email,CUST_117,6,859.79,37,4,Florida
+10,Email and Call,CUST_118,3,990.64,12,1,Illinois
+7,Email,CUST_119,7,692.25,38,21,California
+10,Email,CUST_120,19,473.66,18,47,California
+9,Email and Call,CUST_121,8,665.19,35,1,Florida
+12,Email,CUST_122,10,614.68,30,9,Texas
+7,Email and Call,CUST_123,15,414.43,24,33,Illinois
+9,Email,CUST_124,15,112.34,30,15,New York
+8,Email,CUST_125,1,830.44,14,47,Florida
+12,Call,CUST_126,7,403.24,6,38,New York
+2,Call,CUST_127,4,827.85,3,21,Florida
+1,Email and Call,CUST_128,6,289.88,16,11,Texas
+7,Call,CUST_129,1,50.98,7,23,Texas
+7,Email and Call,CUST_130,5,200.99,14,46,Texas
+8,Call,CUST_131,1,495.11,9,39,Texas
+5,Email,CUST_132,4,947.09,15,37,California
+3,Email and Call,CUST_133,2,147.08,21,9,California
+12,Email and Call,CUST_134,10,861.5,35,34,Illinois
+8,Email,CUST_135,5,550.67,2,48,New York
+6,Email and Call,CUST_136,10,834.62,27,31,Florida
+11,Email and Call,CUST_137,1,333.46,2,6,Florida
+3,Call,CUST_138,6,847.95,35,20,California
+1,Email and Call,CUST_139,13,784.18,18,19,Florida
+3,Email,CUST_140,15,268.55,14,25,California
+5,Call,CUST_141,4,174.77,20,3,Illinois
+3,Call,CUST_142,13,874.65,18,45,New York
+1,Email,CUST_143,15,965.07,10,21,Illinois
+5,Email,CUST_144,8,79.74,25,14,Texas
+10,Call,CUST_145,5,744.71,2,39,Texas
+7,Email and Call,CUST_146,15,914.05,25,20,Texas
+7,Call,CUST_147,4,864.49,33,14,Illinois
+11,Email,CUST_148,12,966.29,36,21,Florida
+9,Call,CUST_149,13,772.09,31,27,New York
+10,Email,CUST_150,2,470.18,14,13,Texas
+10,Call,CUST_151,19,346.35,1,26,Texas
+12,Email and Call,CUST_152,19,354.71,16,40,Texas
+3,Call,CUST_153,4,738.2,3,39,New York
+7,Call,CUST_154,4,758.55,35,27,Texas
+1,Email,CUST_155,11,240.34,6,25,New York
+4,Email,CUST_156,5,874.72,25,48,Texas
+4,Email,CUST_157,11,729.18,13,1,Illinois
+5,Call,CUST_158,10,584.61,34,24,Illinois
+7,Email and Call,CUST_159,8,497.96,8,2,New York
+7,Email,CUST_160,6,566.07,21,7,Illinois
+11,Email,CUST_161,6,201.28,34,43,New York
+4,Call,CUST_162,8,243.52,4,32,Illinois
+7,Email,CUST_163,15,136.61,25,41,Illinois
+11,Email and Call,CUST_164,14,195.98,15,34,New York
+3,Email and Call,CUST_165,11,481.01,4,5,Florida
+6,Email,CUST_166,12,553.84,12,38,Illinois
+12,Email,CUST_167,13,66.97,32,22,Texas
+2,Call,CUST_168,8,806.96,32,24,Florida
+10,Email and Call,CUST_169,18,329.46,28,49,New York
+9,Email and Call,CUST_170,1,916.24,13,42,Florida
+5,Email,CUST_171,15,969.14,31,18,California
+6,Call,CUST_172,8,226.19,14,4,California
+12,Email and Call,CUST_173,11,488.99,20,10,Illinois
+12,Email and Call,CUST_174,12,51.17,18,11,Illinois
+12,Call,CUST_175,12,618.41,29,9,Texas
+12,Call,CUST_176,4,626.94,6,7,Florida
+4,Email and Call,CUST_177,16,285.16,32,23,California
+11,Email and Call,CUST_178,4,580.49,29,27,Illinois
+10,Call,CUST_179,5,264.26,2,40,Florida
+7,Email and Call,CUST_180,5,202.78,23,35,Illinois
+12,Email,CUST_181,8,668.94,19,36,Illinois
+9,Email,CUST_182,10,359.63,31,20,California
+7,Call,CUST_183,17,610.75,5,7,California
+1,Call,CUST_184,9,461.58,19,8,Illinois
+1,Call,CUST_185,19,985.13,34,46,New York
+9,Email,CUST_186,14,192.1,10,14,Illinois
+11,Email and Call,CUST_187,8,491.37,25,47,Illinois
+9,Email,CUST_188,9,696.43,2,45,Texas
+4,Email and Call,CUST_189,11,425.77,11,39,Texas
+9,Email,CUST_190,1,975.96,31,17,Texas
+3,Email and Call,CUST_191,14,735.79,15,41,New York
+7,Email,CUST_192,5,674.13,9,19,New York
+6,Call,CUST_193,14,769.21,23,5,Illinois
+8,Email,CUST_194,4,955.02,19,11,Texas
+11,Email and Call,CUST_195,1,912.43,9,1,New York
+9,Email,CUST_196,19,738.07,35,6,California
+5,Email,CUST_197,8,761.7,21,15,Illinois
+1,Email,CUST_198,15,188.63,9,2,Florida
+3,Call,CUST_199,15,147.65,28,44,Illinois
+10,Email,CUST_200,9,592.36,7,2,Florida
+12,Call,CUST_201,9,67.45,16,26,Texas
+8,Call,CUST_202,10,508.24,16,49,Florida
+11,Email,CUST_203,9,249.83,33,42,Texas
+6,Email,CUST_204,3,378.72,4,39,California
+8,Email,CUST_205,11,787.01,4,37,Florida
+9,Email and Call,CUST_206,6,944.18,39,32,Illinois
+4,Email,CUST_207,2,118.8,17,27,Texas
+1,Call,CUST_208,7,557.53,37,0,Illinois
+1,Email,CUST_209,18,888.41,39,7,New York
+10,Email and Call,CUST_210,2,128.38,29,36,Texas
+4,Email,CUST_211,17,833.29,36,31,Florida
+12,Email and Call,CUST_212,11,389.91,38,47,Texas
+7,Email and Call,CUST_213,12,355.99,39,42,Illinois
+2,Email,CUST_214,19,978.59,37,36,California
+3,Call,CUST_215,7,240.82,35,3,Texas
+1,Email and Call,CUST_216,6,708.53,7,29,Florida
+5,Email,CUST_217,1,830.37,27,5,New York
+1,Email,CUST_218,17,89.12,28,45,California
+8,Call,CUST_219,11,686.87,22,18,New York
+1,Email and Call,CUST_220,18,953.97,14,31,Texas
+11,Email and Call,CUST_221,17,168.01,7,8,Illinois
+1,Email,CUST_222,7,901.41,37,11,Illinois
+2,Email,CUST_223,17,615.04,22,10,Florida
+2,Call,CUST_224,9,635.77,5,45,Illinois
+12,Call,CUST_225,17,632.3,2,15,California
+6,Email and Call,CUST_226,8,333.89,27,0,Illinois
+7,Email and Call,CUST_227,17,938.44,21,44,Florida
+5,Email,CUST_228,7,949.98,38,20,Texas
+1,Email and Call,CUST_229,1,644.04,15,29,Texas
+1,Call,CUST_230,13,794.25,21,12,Illinois
+3,Call,CUST_231,19,631.65,10,33,New York
+2,Email,CUST_232,19,510.18,23,3,Texas
+5,Call,CUST_233,17,677.78,39,27,Illinois
+12,Call,CUST_234,13,575.35,5,37,Florida
+10,Call,CUST_235,16,617.6,1,30,Illinois
+6,Call,CUST_236,8,794.64,13,26,Texas
+7,Email,CUST_237,19,506.86,21,4,Florida
+4,Email,CUST_238,18,88.72,26,24,Illinois
+7,Email and Call,CUST_239,1,205.8,21,2,California
+11,Call,CUST_240,14,466.68,18,32,Florida
+8,Email and Call,CUST_241,19,738.59,37,3,California
+11,Email,CUST_242,15,613.61,32,24,New York
+1,Email,CUST_243,18,667.78,36,19,Florida
+6,Email,CUST_244,2,505.31,17,33,California
+8,Email,CUST_245,17,634.95,35,25,Texas
+5,Email,CUST_246,18,362.57,11,4,Texas
+4,Email,CUST_247,6,496.67,21,34,New York
+2,Email,CUST_248,19,757.07,26,27,Florida
+6,Call,CUST_249,4,878.24,4,28,Florida
+6,Email and Call,CUST_250,1,461.97,34,8,Florida
+11,Email,CUST_251,8,91.48,18,37,New York
+1,Call,CUST_252,7,203.59,35,49,Florida
+9,Call,CUST_253,3,69.82,29,5,Texas
+12,Email and Call,CUST_254,10,670.6,29,18,California
+11,Email,CUST_255,10,365.7,38,43,Texas
+6,Email and Call,CUST_256,19,565.35,21,10,Texas
+3,Email,CUST_257,14,518.61,13,1,California
+4,Call,CUST_258,2,127.45,17,46,Texas
+12,Call,CUST_259,1,433.1,9,43,New York
+11,Call,CUST_260,18,259.53,1,43,California
+4,Call,CUST_261,7,447.48,2,8,Texas
+3,Email and Call,CUST_262,8,243.4,29,20,Illinois
+10,Email,CUST_263,1,848.43,33,23,Texas
+3,Email,CUST_264,3,215.48,10,33,New York
+3,Email and Call,CUST_265,8,962.74,21,21,Florida
+4,Email,CUST_266,15,445.11,28,2,Texas
+7,Call,CUST_267,5,853.93,11,11,Florida
+4,Email,CUST_268,3,647.33,34,27,Illinois
+9,Call,CUST_269,19,748.58,8,29,Texas
+1,Email and Call,CUST_270,1,779.34,22,25,California
+8,Email,CUST_271,15,529.6,8,47,Florida
+7,Email and Call,CUST_272,8,566.14,15,20,Illinois
+2,Email,CUST_273,2,538.3,17,27,California
+8,Call,CUST_274,3,608.66,23,25,California
+1,Email and Call,CUST_275,14,77.92,24,32,California
+11,Email,CUST_276,14,425.74,19,20,California
+12,Call,CUST_277,11,625.88,5,34,Texas
+9,Email and Call,CUST_278,16,617.84,32,33,Texas
+9,Email and Call,CUST_279,4,803.31,1,40,Texas
+2,Email,CUST_280,5,672.26,23,46,Illinois
+7,Email,CUST_281,14,992.53,37,17,Illinois
+10,Email,CUST_282,16,319.66,8,10,Illinois
+3,Call,CUST_283,18,391.19,13,22,New York
+7,Email,CUST_284,7,414.65,8,47,Illinois
+12,Email and Call,CUST_285,10,492.52,23,21,Texas
+10,Email and Call,CUST_286,7,844.2,1,16,Texas
+9,Email,CUST_287,1,274.0,24,4,New York
+4,Email,CUST_288,19,787.2,35,43,New York
+12,Email and Call,CUST_289,16,435.04,24,10,Illinois
+1,Call,CUST_290,19,621.76,17,29,Florida
+2,Email,CUST_291,4,650.91,5,14,New York
+1,Email,CUST_292,18,404.21,20,26,California
+12,Email and Call,CUST_293,2,536.98,21,34,Texas
+5,Email,CUST_294,1,442.38,31,32,California
+5,Call,CUST_295,15,115.68,36,19,Texas
+11,Email and Call,CUST_296,5,465.31,11,15,Texas
+7,Email,CUST_297,11,142.52,15,33,New York
+9,Email and Call,CUST_298,10,434.77,19,1,New York
+9,Email,CUST_299,2,613.27,7,34,California
+3,Email,CUST_300,3,600.44,28,39,Texas
+3,Email,CUST_301,12,679.49,5,27,California
+3,Call,CUST_302,5,140.5,5,46,Florida
+4,Call,CUST_303,5,669.52,30,38,California
+8,Email and Call,CUST_304,6,346.54,32,5,Illinois
+6,Email,CUST_305,9,429.09,8,8,California
+8,Email,CUST_306,2,865.09,10,19,Illinois
+1,Call,CUST_307,12,58.58,38,0,Illinois
+8,Email,CUST_308,3,608.99,32,7,Illinois
+4,Call,CUST_309,12,618.78,28,22,Florida
+11,Email,CUST_310,17,426.83,17,2,California
+1,Email and Call,CUST_311,10,275.18,31,3,California
+8,Email,CUST_312,14,272.94,8,24,Florida
+4,Email,CUST_313,17,889.52,25,46,Texas
+6,Call,CUST_314,18,469.92,9,37,New York
+8,Email,CUST_315,19,364.34,2,14,California
+4,Email,CUST_316,17,476.34,15,20,New York
+3,Call,CUST_317,14,685.92,3,34,Florida
+9,Email and Call,CUST_318,9,188.47,36,45,Texas
+3,Email and Call,CUST_319,8,476.96,4,13,Texas
+9,Call,CUST_320,2,608.49,14,35,Texas
+2,Call,CUST_321,13,951.15,25,11,Florida
+2,Call,CUST_322,7,289.9,10,16,Illinois
+2,Call,CUST_323,9,391.29,21,38,Illinois
+6,Call,CUST_324,11,410.39,36,8,New York
+3,Email and Call,CUST_325,14,625.26,12,34,Illinois
+9,Email and Call,CUST_326,4,388.9,27,12,Illinois
+4,Call,CUST_327,13,556.84,2,14,Texas
+1,Email,CUST_328,2,792.7,13,17,Texas
+4,Call,CUST_329,5,720.12,32,32,New York
+1,Email,CUST_330,11,474.05,31,5,California
+5,Call,CUST_331,6,871.01,16,26,New York
+4,Call,CUST_332,18,580.23,32,22,New York
+8,Email and Call,CUST_333,10,562.91,32,26,Florida
+8,Email,CUST_334,4,82.48,34,33,Florida
+7,Email,CUST_335,9,987.36,11,45,New York
+3,Email and Call,CUST_336,6,166.82,10,37,New York
+1,Email and Call,CUST_337,2,269.57,15,13,New York
+1,Email and Call,CUST_338,17,99.11,17,35,Illinois
+12,Email and Call,CUST_339,5,658.0,18,7,Florida
+11,Email,CUST_340,6,263.47,9,34,New York
+3,Email,CUST_341,12,221.01,25,18,Texas
+6,Call,CUST_342,10,134.13,14,29,Texas
+7,Call,CUST_343,6,148.14,25,13,Illinois
+6,Email and Call,CUST_344,8,605.44,22,19,Illinois
+6,Email and Call,CUST_345,2,703.8,30,48,California
+6,Email and Call,CUST_346,12,427.51,20,24,California
+3,Call,CUST_347,13,505.9,21,39,California
+6,Call,CUST_348,7,701.67,32,23,Illinois
+8,Call,CUST_349,10,66.51,21,13,Illinois
+11,Call,CUST_350,13,356.97,35,25,Illinois
+11,Call,CUST_351,17,974.44,32,37,Texas
+2,Call,CUST_352,14,601.11,30,22,Illinois
+5,Call,CUST_353,2,291.51,39,21,Texas
+1,Email and Call,CUST_354,11,545.64,12,47,California
+12,Email and Call,CUST_355,1,375.52,18,18,California
+1,Email and Call,CUST_356,19,555.63,21,45,California
+5,Email and Call,CUST_357,4,169.45,13,2,New York
+12,Call,CUST_358,19,176.08,21,41,New York
+3,Email,CUST_359,11,186.37,8,18,Florida
+4,Call,CUST_360,8,942.83,7,8,Florida
+3,Email,CUST_361,11,746.25,23,27,Florida
+1,Email and Call,CUST_362,4,204.26,32,19,New York
+1,Call,CUST_363,17,228.93,11,44,New York
+12,Email and Call,CUST_364,7,744.29,22,6,Florida
+12,Call,CUST_365,8,198.36,22,13,Florida
+5,Email and Call,CUST_366,3,272.83,25,8,Illinois
+6,Email,CUST_367,2,965.18,22,18,Florida
+3,Email,CUST_368,15,292.54,28,46,Illinois
+12,Email,CUST_369,5,678.55,29,13,Texas
+9,Call,CUST_370,1,979.7,13,37,New York
+5,Email,CUST_371,4,405.58,18,35,Florida
+8,Call,CUST_372,15,66.64,2,39,New York
+1,Email,CUST_373,19,281.94,29,16,New York
+5,Email,CUST_374,3,839.33,21,29,New York
+3,Call,CUST_375,11,871.38,15,8,Texas
+12,Call,CUST_376,17,780.09,27,32,California
+1,Email,CUST_377,13,157.45,31,24,Florida
+4,Call,CUST_378,11,805.73,15,13,California
+5,Email,CUST_379,2,922.74,23,10,California
+7,Call,CUST_380,9,620.58,24,34,California
+1,Email and Call,CUST_381,2,943.83,13,40,New York
+3,Email and Call,CUST_382,9,835.5,22,13,Illinois
+2,Email and Call,CUST_383,9,683.62,37,29,New York
+9,Email and Call,CUST_384,8,598.33,33,40,New York
+10,Email and Call,CUST_385,17,381.14,3,3,California
+6,Email,CUST_386,1,201.32,19,3,New York
+10,Email and Call,CUST_387,11,624.71,23,27,California
+3,Email and Call,CUST_388,8,352.21,29,7,Illinois
+8,Email and Call,CUST_389,10,873.12,30,1,Florida
+8,Email and Call,CUST_390,7,993.67,39,40,California
+2,Call,CUST_391,3,764.81,25,45,Illinois
+6,Email,CUST_392,3,135.96,37,21,Florida
+7,Email and Call,CUST_393,18,324.25,8,40,Texas
+2,Email and Call,CUST_394,5,153.65,16,15,California
+11,Email and Call,CUST_395,12,667.99,8,28,California
+10,Email,CUST_396,12,776.93,1,48,Texas
+2,Call,CUST_397,19,929.39,5,47,Texas
+10,Email,CUST_398,6,466.26,3,29,California
+1,Call,CUST_399,2,906.31,1,11,Texas
+8,Email and Call,CUST_400,12,884.0,4,34,New York
+1,Email and Call,CUST_401,19,351.34,35,10,Florida
+9,Email,CUST_402,5,875.46,32,45,Florida
+11,Email,CUST_403,12,406.89,34,49,Florida
+6,Call,CUST_404,17,332.03,25,20,New York
+7,Call,CUST_405,17,666.62,10,20,Texas
+10,Email,CUST_406,10,361.96,21,4,Illinois
+7,Call,CUST_407,17,648.7,39,47,Texas
+10,Email,CUST_408,15,629.34,27,19,California
+3,Call,CUST_409,12,585.27,27,36,Florida
+2,Email,CUST_410,16,411.4,2,2,Texas
+9,Email,CUST_411,19,571.07,13,43,Illinois
+8,Email,CUST_412,8,616.66,9,32,California
+12,Call,CUST_413,17,568.4,36,8,New York
+10,Call,CUST_414,5,472.2,22,8,New York
+7,Call,CUST_415,16,63.93,26,3,Illinois
+9,Email,CUST_416,6,607.71,12,34,California
+4,Call,CUST_417,8,210.02,17,16,Florida
+4,Call,CUST_418,18,660.45,14,33,Texas
+1,Email,CUST_419,12,771.38,14,23,California
+8,Email and Call,CUST_420,15,525.42,34,31,New York
+12,Email,CUST_421,9,565.25,20,0,Illinois
+3,Call,CUST_422,13,953.9,11,7,Illinois
+7,Email,CUST_423,15,854.81,16,44,Texas
+12,Email and Call,CUST_424,10,918.52,31,22,Illinois
+2,Email,CUST_425,16,823.08,6,46,Illinois
+2,Call,CUST_426,7,153.47,19,39,California
+7,Email and Call,CUST_427,17,191.54,37,11,Florida
+6,Call,CUST_428,7,550.29,4,11,Texas
+3,Email and Call,CUST_429,14,283.77,4,45,California
+9,Email and Call,CUST_430,15,502.86,20,46,Florida
+10,Email,CUST_431,7,424.65,10,14,California
+6,Email,CUST_432,9,571.94,24,40,California
+10,Call,CUST_433,19,759.53,35,18,Illinois
+10,Email,CUST_434,16,729.72,26,25,Florida
+6,Email,CUST_435,8,545.17,37,28,Texas
+1,Email and Call,CUST_436,18,831.27,38,21,Texas
+4,Email,CUST_437,18,459.32,21,39,Florida
+10,Email and Call,CUST_438,7,901.88,39,20,Illinois
+6,Email and Call,CUST_439,3,117.72,21,37,New York
+6,Email and Call,CUST_440,18,956.93,10,19,California
+11,Call,CUST_441,10,671.96,38,28,Illinois
+12,Call,CUST_442,7,411.07,4,3,Florida
+5,Call,CUST_443,17,237.3,20,6,California
+1,Email and Call,CUST_444,14,505.22,17,27,Texas
+8,Call,CUST_445,3,234.83,7,27,New York
+5,Call,CUST_446,12,208.02,4,3,Texas
+12,Email,CUST_447,13,636.48,29,21,Florida
+12,Call,CUST_448,2,546.93,14,11,California
+12,Call,CUST_449,3,686.59,3,44,Florida
+5,Email and Call,CUST_450,5,933.13,24,2,California
+7,Email and Call,CUST_451,11,555.65,37,21,Illinois
+4,Email and Call,CUST_452,8,601.89,16,43,New York
+6,Email and Call,CUST_453,12,135.15,4,1,Illinois
+4,Email and Call,CUST_454,7,731.75,24,23,Illinois
+3,Email and Call,CUST_455,15,429.91,34,33,Florida
+7,Call,CUST_456,17,977.89,30,26,New York
+8,Email and Call,CUST_457,4,832.02,18,40,California
+4,Email and Call,CUST_458,13,546.36,19,0,California
+2,Email,CUST_459,18,167.06,31,7,Texas
+12,Call,CUST_460,1,866.45,19,22,California
+10,Call,CUST_461,16,809.79,19,37,Florida
+3,Call,CUST_462,13,225.36,22,5,Illinois
+1,Email and Call,CUST_463,10,330.51,24,21,Illinois
+8,Email and Call,CUST_464,12,803.74,12,24,Illinois
+3,Email and Call,CUST_465,2,225.97,30,17,New York
+12,Email,CUST_466,3,921.86,38,16,California
+10,Email and Call,CUST_467,10,453.3,31,11,Florida
+7,Email,CUST_468,2,132.69,36,5,New York
+10,Call,CUST_469,13,824.96,19,25,Texas
+5,Email and Call,CUST_470,13,404.83,36,26,Florida
+10,Email,CUST_471,18,550.17,30,7,Florida
+5,Email,CUST_472,3,156.69,33,18,Florida
+7,Email and Call,CUST_473,7,52.45,18,41,Illinois
+9,Call,CUST_474,14,656.09,28,0,Florida
+12,Call,CUST_475,17,539.42,11,28,California
+5,Call,CUST_476,12,613.86,33,44,Florida
+1,Email,CUST_477,16,804.06,17,48,Illinois
+10,Email,CUST_478,12,664.28,6,34,Florida
+10,Email,CUST_479,15,216.03,4,39,Texas
+1,Email,CUST_480,10,392.73,20,13,Texas
+2,Call,CUST_481,7,910.6,27,34,Illinois
+6,Email and Call,CUST_482,5,781.45,15,47,California
+9,Email,CUST_483,1,578.81,6,44,California
+8,Email,CUST_484,17,292.86,14,19,New York
+5,Call,CUST_485,3,336.96,11,48,Illinois
+1,Email and Call,CUST_486,13,745.36,39,12,Florida
+7,Email and Call,CUST_487,14,858.62,9,37,Illinois
+5,Call,CUST_488,18,687.85,26,48,New York
+6,Call,CUST_489,4,819.05,16,45,Illinois
+7,Email and Call,CUST_490,18,778.32,5,48,Illinois
+3,Email,CUST_491,5,192.22,10,7,New York
+12,Email and Call,CUST_492,16,452.75,3,42,California
+10,Call,CUST_493,1,195.33,13,19,Florida
+3,Email,CUST_494,14,273.47,30,32,New York
+5,Email,CUST_495,15,875.8,6,25,Texas
+6,Call,CUST_496,9,499.25,17,38,California
+9,Call,CUST_497,15,558.59,19,20,Texas
+12,Call,CUST_498,17,219.52,35,48,California
+5,Email and Call,CUST_499,4,346.66,26,41,Florida
+1,Email and Call,CUST_500,12,268.73,5,42,Florida
